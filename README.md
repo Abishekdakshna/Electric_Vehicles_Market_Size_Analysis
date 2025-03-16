@@ -45,7 +45,6 @@ Examined the most common EV types and top manufacturers.
 Studied EV battery range trends, showing improvements over model years.
 
 5️⃣ Future EV Market Forecasting
-![image](https://github.com/user-attachments/assets/b26a599a-8538-4058-abb6-598cb6afcc63)
 
 Used an exponential growth model to predict EV adoption trends up to 2029.
 
