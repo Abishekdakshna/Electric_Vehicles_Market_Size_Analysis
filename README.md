@@ -82,11 +82,6 @@ python electric_vehicles_market_size_analysis.py
 ✅ Geographic trends highlight regions leading in EV adoption.
 ✅ Forecasting suggests strong future growth in EV registrations.
 
-🔗 Future Improvements
-
-Integrate additional datasets (charging infrastructure, government policies, etc.)
-
-Implement machine learning models for enhanced forecasting.
 
 📜 Author
 
